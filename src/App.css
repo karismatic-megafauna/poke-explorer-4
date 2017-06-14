@@ -1,4 +1,10 @@
 @import '~antd/dist/antd.css';
 
 .App {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Card {
+  margin: 10px;
 }
