@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Card } from 'antd';
 import PropTypes from 'prop-types';
+import './App.css'
 
 class Cell extends Component {
   render() {
